@@ -10,7 +10,7 @@ En este juego, el programa generará un número aleatorio dentro de un rango def
 ## Instalación
 
 1. Asegúrate de tener instalado Python en tu sistema.
-2. Instala la librería `colorama` utilizando el siguiente comando:
+2. Instala la librería `colorama` utilizando el siguiente comando: `pip install colorama`
 
 ## Ejecución
 
