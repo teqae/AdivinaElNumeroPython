@@ -25,3 +25,9 @@ Este juego fue creado como parte de un ejercicio de programación con contribuci
 El diseño básico y las mejoras en el juego se basan en ejemplos proporcionados por teqae.
 
 ¡Disfruta del juego!
+
+## Vista previa:
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1167594085029269514/1179593969676591185/image.png?ex=657a597e&is=6567e47e&hm=f2be7f98232809f1ce60300f7a30ddffe14d6c3235ad9f25e5bf2be835bb110d&" height="430"/>
+</p>
